@@ -4,6 +4,7 @@
  * @version 0.1
  * @since 2020-03-21
  * @author Tomek Kpauœciarek
+ * 
  */
 public class Bohater {
 	private String strHeroName;
